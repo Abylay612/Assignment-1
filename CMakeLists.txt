@@ -11,4 +11,8 @@ add_executable(untitled task1.cpp
         task7.cpp
         task8.cpp
         task2.cpp
+        task9.cpp
+        task10.cpp
+        task11.cpp
+        task12.cpp
 )
