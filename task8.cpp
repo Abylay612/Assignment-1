@@ -7,7 +7,6 @@ int reverse_of_number(int n) {
         n = -n;
     }
     if (n == 0) return 0;
-
     cout << n % 10;
     return reverse_of_number(n / 10);
 }

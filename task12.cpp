@@ -3,9 +3,11 @@ using namespace std;
 
 int largest_of_array(int a[], int size) {
     int num_max = 0;
-    if (a[0] < a[1]) {
-
+    int count = 0;
+    if (a[count] > a[num_max]) {
+        num_max = count;
     }
+    int temp = 0;
 }
 
 int main() {
